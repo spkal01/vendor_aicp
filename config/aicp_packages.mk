@@ -131,6 +131,7 @@ PRODUCT_PACKAGES += \
     FontSignikaOverlay \
     FontOxaniumOverlay \
     FontInterOverlay \
+    FontGoogleSansOverlay \
     TilesWallpaper
 
 # AICP Ad-block
