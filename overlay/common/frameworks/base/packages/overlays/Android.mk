@@ -14,7 +14,7 @@ LOCAL_REQUIRED_MODULES := \
     FontExotwoOverlay \
     FontSnigletOverlay \
     FontSignikaOverlay \
-    FontOxaniumOverlay
+    FontOxaniumOverlay \
     FontGoogleSansOverlay
 
 include $(BUILD_PHONY_PACKAGE)
